@@ -7,6 +7,13 @@
     <title>Company DB</title>
 </head>
 <body>
+
     Welcome!
+
+<form method="post" action="select">
+    <input type="text" name="fullName" value="">
+    <button type="submit">Select</button>
+</form>
+
 </body>
 </html>
